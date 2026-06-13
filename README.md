@@ -1,6 +1,6 @@
 # 💳 Fraud Intelligence Platform
 
-Real-Time Fraud Detection System using XGBoost, FastAPI and Streamlit.
+An end-to-end machine learning system for real-time credit card fraud detection using XGBoost, FastAPI, and Streamlit.
 
 ## Features
 
