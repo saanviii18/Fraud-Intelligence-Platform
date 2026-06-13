@@ -25,5 +25,14 @@ Real-Time Fraud Detection System using XGBoost, FastAPI and Streamlit.
 * Recall: 81%
 * F1 Score: 87%
 
+## Dashboard
+![Dashboard](dashboard-1.png)
+
+## API Documentation
+![alt text](<Prediction API.png>)
+
+## Prediction Example
+![alt text](<Transaction Prediction .png>)
+
 ## Author
 Saanvi Kamboj
