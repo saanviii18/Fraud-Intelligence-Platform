@@ -19,6 +19,22 @@ Real-Time Fraud Detection System using XGBoost, FastAPI and Streamlit.
 * Pandas
 * NumPy
 
+## Architecture
+
+Dataset
+↓
+Data Preprocessing
+↓
+XGBoost Model
+↓
+fraud_model.pkl
+↓
+FastAPI API
+↓
+Streamlit Dashboard
+↓
+Fraud Prediction
+
 ## Model Performance
 
 * Precision: 94%
