@@ -29,10 +29,10 @@ Real-Time Fraud Detection System using XGBoost, FastAPI and Streamlit.
 ![Dashboard](dashboard-1.png)
 
 ## API Documentation
-![alt text](<Prediction API.png>)
+![API Documentation](<Prediction API.png>)
 
 ## Prediction Example
-![alt text](<Transaction Prediction .png>)
+![Prediction Example](<Transaction Prediction .png>)
 
 ## Author
 Saanvi Kamboj
